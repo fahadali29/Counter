@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="press_here">Press Here</string>
+    <string name="name">Name</string>
+    <string name="welcome_to_app">Welcome To App</string>
+    <string name="press">Press</string>
+    <string name="namet">Name</string>
+    <string name="count">Count</string>
+    <string name="reset">reset</string>
+    <string name="Reset">Reset</string>
+</resources>
